@@ -1,4 +1,4 @@
-# 🛡️ Fraud Detection with Machine Learning
+# Fraud Detection with Machine Learning
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ Fraud is a critical challenge faced by industries such as **banking, e-commerce,
 
 The project simulates a **real-world consulting case** for a startup that wants to showcase its **Data Science portfolio** to attract new clients.
 
----
+
 
 ## 🎯 Objectives
 
@@ -19,7 +19,7 @@ The project simulates a **real-world consulting case** for a startup that wants 
 * Implement a **Machine Learning pipeline** from preprocessing to evaluation.
 * Produce a **portfolio-ready project** for potential clients.
 
----
+
 
 ## 🗂️ Business Context
 
@@ -34,7 +34,7 @@ By identifying such irregularities, machine learning models can **predict fraudu
 ⚠️ **Note on Data Privacy**
 This type of analysis involves **sensitive data** (names, credit card numbers, IDs). For ethical and security reasons, this project uses **anonymized datasets** instead of real customer information.
 
----
+
 
 ## 📊 Dataset
 
@@ -45,7 +45,7 @@ The dataset used simulates real-world financial transactions and includes:
 * **Customer profile data**
 * **Fraud label** (fraudulent or legitimate)
 
----
+
 
 ## ⚙️ Methodology
 
@@ -62,7 +62,7 @@ The dataset used simulates real-world financial transactions and includes:
    * F1-Score
    * ROC-AUC
 
----
+
 
 ## 🔄 Project Pipeline
 
@@ -75,7 +75,7 @@ flowchart TD
     E --> F[🛡️ Predict Fraud in New Transactions]
 ```
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -86,7 +86,6 @@ flowchart TD
 * **Imbalanced-learn (SMOTE)** – Handling class imbalance
 * **Jupyter Notebook** – Development environment
 
----
 
 ## 📈 Expected Results
 
@@ -95,7 +94,7 @@ flowchart TD
 * Comparison of **different ML models** and their performance.
 * A **portfolio-ready fraud detection pipeline** for consulting clients.
 
----
+
 
 ## 👨‍💻 Authors
 
